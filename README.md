@@ -1,6 +1,6 @@
 # Dasar Pemrograman Web
 
-Lihat semua portofolio aku di Website Diconding => https://www.dicoding.com/users/607964
+Lihat semua aktivitas belajar aku di Website Diconding => https://www.dicoding.com/users/607964
 
 # Materi
 

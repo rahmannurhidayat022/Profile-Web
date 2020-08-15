@@ -1,0 +1,1 @@
+alert("Silahkan baca artikel saya ini .. Enjoy :)");

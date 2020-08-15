@@ -1,0 +1,1 @@
+alert("Hubungi saya dengan kontak di page ini :)");

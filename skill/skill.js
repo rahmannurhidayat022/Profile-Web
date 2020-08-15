@@ -1,0 +1,1 @@
+alert("Saya mempunyai skill yang mempuni :)");
